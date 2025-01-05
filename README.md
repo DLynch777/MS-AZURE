@@ -28,3 +28,4 @@ The following below highlights the skills and abilities that I possess within Mi
 
 <img width="622" height="400" alt="image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN0Z2l5YzVldzkyM3JnamNjczhqdzl3MHBxdzk4bGQzcnd0YWJzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yl5aO3gdVfsQ0/giphy.gif" />
 
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/9fbdea97-5a67-4e67-9338-3d8d06aa2883" />
