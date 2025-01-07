@@ -5,7 +5,7 @@
 </p>
 
 <h1>MS AZURE</h1>
-The following below highlights the skills and abilities that I possess within Microsoft Azure. It showcases skills in creating resource groups, storage accounts, MV's, and more.<br />
+The following below highlights the skills and abilities that I possess within Microsoft Azure. It showcases skills in creating resource groups, storage accounts, VM's, and more.<br />
 
 
 <h2>Environments and Technologies Used</h2>
